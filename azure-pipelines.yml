@@ -4,7 +4,7 @@ pool:
   vmImage: 'Ubuntu 16.04'
   
 variables:
-  imageName: 'konsulweb:$(Build.BuildId)'
+  imageName: 'konsulweb'
   # define two more variables dockerId and dockerPassword in the build pipeline in UI
 
 steps:
