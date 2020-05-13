@@ -9,11 +9,11 @@ variables:
 
 steps:
 - script: |
-    apt install npm
-    npm install
-    npm install --global @gridsome/cli
-    npm install
-    RUN npm install sharp
+    sudo apt install npm
+    sudo npm install
+    sudo npm install --global @gridsome/cli
+    sudo npm install
+    sudo npm install sharp
     gridsome build
 
     docker build -f Dockerfile -t $(dockerId)/$(imageName) .
