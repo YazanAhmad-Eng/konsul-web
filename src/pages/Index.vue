@@ -8,7 +8,7 @@
       <div class="container">
         <header class="major">
           <h2>Why consult with Konsul?</h2>
-          <p>Lorem ipsum dolor sit amet, delectus consequatur, similique quia!</p>
+          <p>This text is going from the develop to the build by one commit!</p>
         </header>
         <div class="row 150%">
           <div class="4u 12u$(medium)">
