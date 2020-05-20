@@ -7,7 +7,7 @@
     <section id="one" class="wrapper style1 special">
       <div class="container">
         <header class="major">
-          <h2>Why consult with Konsul?</h2>
+          <h2>WhY Consult with Konsul?</h2>
           <p>This text is going from the develop to the build by one commit!</p>
         </header>
         <div class="row 150%">
